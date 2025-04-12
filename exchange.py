@@ -1,4 +1,5 @@
 import requests
+import os
 
 API_KEY = "your_api_key_here"  # Replace with your API key
 BASE_URL = "https://v6.exchangerate-api.com/v6"
